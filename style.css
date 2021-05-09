@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: purple;
+    width: 1000;
+    height: 1000;
+}
+#clickme{
+    background-color: plum;
+    font-family: 'Dancing Script' ,cursive;
+    font-size: 50px;
+    border-radius: 50%;
+}
+#supriseimg{
+    height: 500px;
+    width: 500px;
+}
